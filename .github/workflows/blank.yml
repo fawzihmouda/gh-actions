@@ -6,6 +6,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print 
-        run: "Hello world"
+        run: echo "Hello world"
       - name: Print 2
-        run: "Hello w"
+        run: echo "Hello w"
